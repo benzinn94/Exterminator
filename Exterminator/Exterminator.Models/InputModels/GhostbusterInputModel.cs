@@ -10,7 +10,7 @@ namespace Exterminator.Models.InputModels
         [MaxLength(50)]
         public string Name { get; set; }
         [Required]
-        // [Expertize]
+        [Expertize]
         public string Expertize { get; set; }
     }
 }

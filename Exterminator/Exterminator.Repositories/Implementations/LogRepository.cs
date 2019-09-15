@@ -24,6 +24,20 @@ namespace Exterminator.Repositories.Implementations
             _dbContext.SaveChanges();
         }
 
-        // TODO: Should contain a method which retrieves all logs (LogDto) ordered by timestamp (descending)
+        public List<LogDto> GetAllLogs(){
+            var allLogsEntities = _dbContext.Logs.ToList();
+            var allLogsDtos = new List<LogDto>();
+
+            foreach(var log in allLogsEntities){
+                allLogsDtos.Add(new LogDto{
+                    Id = log.Id,
+                    ExceptionMessage = log.ExceptionMessage,
+                    StackTrace = log.StackTrace,
+                    Timestamp = log.Timestamp
+                });
+            }
+
+            return allLogsDtos.OrderBy(l => l.Timestamp).ToList();
+        }
     }
 }

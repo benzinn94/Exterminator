@@ -19,6 +19,9 @@ namespace Exterminator.Services.Implementations
         {
             _logRepository.LogToDatabase(exception);
         }
-        // TODO: Should contain a method which retrieves all logs (LogDto) ordered by timestamp (descending)
+        
+        public List<LogDto> GetAllLogs(){
+            return _logRepository.GetAllLogs();
+        }
     }
 }

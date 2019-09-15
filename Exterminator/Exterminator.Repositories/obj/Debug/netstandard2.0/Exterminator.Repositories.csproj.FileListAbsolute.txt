@@ -1,0 +1,12 @@
+C:\hrgitsrc\Exterminator\Exterminator\Exterminator.Repositories\bin\Debug\netstandard2.0\Exterminator.Repositories.deps.json
+C:\hrgitsrc\Exterminator\Exterminator\Exterminator.Repositories\bin\Debug\netstandard2.0\Exterminator.Repositories.dll
+C:\hrgitsrc\Exterminator\Exterminator\Exterminator.Repositories\bin\Debug\netstandard2.0\Exterminator.Repositories.pdb
+C:\hrgitsrc\Exterminator\Exterminator\Exterminator.Repositories\bin\Debug\netstandard2.0\Exterminator.Models.dll
+C:\hrgitsrc\Exterminator\Exterminator\Exterminator.Repositories\bin\Debug\netstandard2.0\Exterminator.Models.pdb
+C:\hrgitsrc\Exterminator\Exterminator\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.csprojAssemblyReference.cache
+C:\hrgitsrc\Exterminator\Exterminator\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.csproj.CoreCompileInputs.cache
+C:\hrgitsrc\Exterminator\Exterminator\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.AssemblyInfoInputs.cache
+C:\hrgitsrc\Exterminator\Exterminator\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.AssemblyInfo.cs
+C:\hrgitsrc\Exterminator\Exterminator\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.csproj.CopyComplete
+C:\hrgitsrc\Exterminator\Exterminator\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.dll
+C:\hrgitsrc\Exterminator\Exterminator\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.pdb

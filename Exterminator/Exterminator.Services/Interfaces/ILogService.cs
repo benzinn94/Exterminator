@@ -6,7 +6,8 @@ namespace Exterminator.Services.Interfaces
 {
     public interface ILogService
     {
-         void LogToDatabase(ExceptionModel exception);
-         // TODO: Should contain a method which retrieves all logs (LogDto) ordered by timestamp (descending)
+        void LogToDatabase(ExceptionModel exception);
+        List<LogDto> GetAllLogs();
+        // TODO: Should contain a method which retrieves all logs (LogDto) ordered by timestamp (descending)
     }
 }
